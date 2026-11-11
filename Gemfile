@@ -123,7 +123,7 @@ gem 'coffee-rails', '~> 5.0.0'
 gem 'angular_rails_csrf'
 
 gem 'jquery-rails', '4.4.0'
-gem 'jquery-ui-rails', '~> 4.2'
+gem 'jquery-ui-rails', '~> 8.0'
 gem "select2-rails", github: "openfoodfoundation/select2-rails",
                      branch: "v349_with-relaxed-dependencies"
 
